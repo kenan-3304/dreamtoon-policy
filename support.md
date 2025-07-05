@@ -8,8 +8,8 @@ If you have any questions, encounter a bug, or need help with any feature, pleas
 
 **Email Support:**
 For direct support, please email us at:
-dreamzz.lore@gmail.com
-We aim to respond to all inquiries within 24-48 hours.
+support@dreamtoon.app
+We aim to respond to all inquiries within 24 hours.
 
 ## Frequently Asked Questions (Optional - if you have any):
 
