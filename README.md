@@ -82,13 +82,13 @@ We retain your audio recordings, dream scripts, and account information for as l
 
 Microphone Access: You can control the App's access to your device's microphone through your device settings. If you disable microphone access, certain core features of the App will not function.
 
-Accessing and Deleting Your Data: You can [describe how users can access/delete their data, e.g., "access and delete your stored dream recordings and scripts directly within the App's settings under 'My Dreams' or by contacting us at dreamzz.lore@gmail.com".
+Accessing and Deleting Your Data: You can [describe how users can access/delete their data, e.g., "access and delete your stored dream recordings and scripts directly within the App's settings under 'My Dreams' or by contacting us at support@dreamtoon.app".
 
-Account Deletion: If you wish to delete your account, please contact us at dreamzz.lore@gmail.com. Upon account deletion, we will [describe your data deletion process, e.g., "permanently delete your associated audio recordings, dream scripts, and account information, subject to any legal obligations or legitimate business purposes for retention."].
+Account Deletion: If you wish to delete your account, please contact us at support@dreamtoon.app. Upon account deletion, we will permanently delete your associated audio recordings, dream scripts, and account information, subject to any legal obligations or legitimate business purposes for retention.
 
 6. Children's Privacy
 
-The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will take reasonable steps to delete it promptly. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at dreamzz.lore@gmail.com.
+The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected personal information from a child under 13, we will take reasonable steps to delete it promptly. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at support@dreamtoon.app.
 
 7. Security
 
@@ -103,4 +103,4 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 DreamToon
-dreamzz.lore@gmail.com
+support@dreamtoon.app
