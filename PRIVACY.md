@@ -1,4 +1,3 @@
-# dreamtoon-privacy-policy
 
 This Privacy Policy describes how DreamToon ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of the DreamToon mobile application (the “App”). We are committed to protecting your privacy and handling your data in a transparent manner.
 
