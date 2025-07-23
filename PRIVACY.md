@@ -1,3 +1,4 @@
+Effective Date: July 23, 2025
 
 This Privacy Policy describes how DreamToon ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of the DreamToon mobile application (the “App”). We are committed to protecting your privacy and handling your data in a transparent manner.
 
@@ -29,7 +30,7 @@ We use the collected information for the following purposes:
   
 - Product Improvement & Analytics: To understand user interaction, identify areas for improvement, and fix bugs.
   
-- AI/Machine Learning Training: We may use anonymized and aggregated audio recordings and dream scripts to train and improve our AI models. Your personal, identifiable data will not be   used for AI/ML training without your explicit prior consent.
+- AI/Machine Learning Training: We may use anonymized audio and dream scripts—stripped of any identifiers like email, username, or voice     metadata—to improve our AI systems. This training data is not linked back to you and cannot be used to identify you.
   
 - Communication: To respond to support inquiries and send important service-related notifications.
   
