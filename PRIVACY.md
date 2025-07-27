@@ -1,83 +1,115 @@
-Effective Date: July 23, 2025
+**Effective Date:** July 23, 2025
 
-This Privacy Policy describes how DreamToon ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of the DreamToon mobile application (the “App”). We are committed to protecting your privacy and handling your data in a transparent manner.
+This Privacy Policy explains how DreamToon ("**we**," "**us**," or "**our**") collects, uses, discloses, and safeguards your information when you use the DreamToon mobile application (the "**App**"). Our goal is to be transparent about our data practices and meet the requirements of U.S., Canadian, and applicable international privacy laws.
 
-**Information We Collect**
-We collect the following types of information when you use the App:
+---
 
-- Information You Provide Directly:
+## Information We Collect
 
-  - Audio Recordings: We collect audio recordings of your voice when you use the App’s recording feature.
-  
-  - Dream Scripts/Text Data: We process the audio recordings to generate text-based “dream scripts.”
-  
-  - Account Information: By creating an account, we collect your email address and username.
-  
-  - Feedback: If you contact us for support, we collect your contact information and the content of your message.
-  
-- Information Collected Automatically (Device & Usage Data):
-  
-  - Device Information: Device model, operating system version, unique device identifiers, and mobile network information.
-  
-  - Usage Data: Information about how you interact with the App, such as the features you use and error logs.
+We only collect data that is necessary to operate and improve the App.
 
-  - Transaction and Subscription Information: We receive transaction confirmations from the app stores and our subscription management service when you purchase a subscription. This         includes information about the subscription you purchased but does not include your credit card number or other sensitive financial information.
+* **Information You Provide Directly**
 
-**How We Use Your Information**
-We use the collected information for the following purposes:
+  * **Audio Recordings** – Your voice recordings when you use the App’s recording feature.
+  * **Dream Scripts / Text Data** – Text generated from your recordings.
+  * **Account Information** – Email address and username when you create an account.
+  * **Feedback & Support Messages** – Content of messages you send to us.
 
-- App Functionality: To record and process your audio, generate dream scripts, provide personalized features, and sync your data if you are logged in.
-  
-- Product Improvement & Analytics: To understand user interaction, identify areas for improvement, and fix bugs.
-  
-- AI/Machine Learning Training: We may use anonymized audio and dream scripts—stripped of any identifiers like email, username, or voice     metadata—to improve our AI systems. This training data is not linked back to you and cannot be used to identify you.
-  
-- Communication: To respond to support inquiries and send important service-related notifications.
-  
-- Security and Fraud Prevention: To detect, prevent, and respond to potential fraud or abuse.
+* **Information Collected Automatically**
 
-**Subscriptions and Payments**
-The App offers paid subscriptions that provide access to premium features. All payments are processed securely by the Apple App Store or Google Play Store ("App Stores"). We do not collect, receive, process, or store your credit card details or other sensitive payment information. We utilize a third-party subscription management service, RevenueCat, to validate and manage your subscription status. This allows us to confirm your purchase and sync your premium access across devices without handling your financial data.
+  * **Device Information** – Device model, operating‑system version, language, unique identifiers (e.g., IDFV), and network data.
+  * **Usage Data** – Interaction events, session length, and error logs.
+  * **Transaction & Subscription Data** – Non‑identifiable purchase metadata (plan type, trial status, renewal date) from Apple App Store, Google Play Store, and RevenueCat. We **never** receive your credit‑card number.
 
-**How We Share Your Information**
-We do not sell or rent your personal information. We may share your information in the following limited circumstances:
+---
 
-- Service Providers: We share information with third-party service providers who perform services on our behalf. These include:
+## How We Use Your Information
 
-  - Cloud hosting provider supabase for data storage.
+* **App Functionality** – Record and transcribe dreams, generate comics, personalize features, and sync data across devices.
+* **Subscription Management** – Validate purchases, enable free trials, process renewals, and display your current plan.
+* **Product Analytics & Improvement** – Understand usage patterns, fix bugs, and enhance performance.
+* **AI / Machine‑Learning Training** – Improve our AI models using **anonymized** and **aggregated** dream data that cannot identify you.
+* **Communication** – Respond to support inquiries and send critical service notices.
+* **Security & Fraud Prevention** – Detect and address unauthorized or harmful activity.
 
-  - Analytics providers to help us understand app usage.
+### Legal Bases for Processing (If Applicable)
 
-  - Subscription Management Provider (RevenueCat): We share a non-identifiable user ID and purchase data with RevenueCat to manage and validate your subscription status. You can review     their privacy practices at https://www.revenuecat.com/privacy.
+* **Consent** – When you allow microphone access or opt into AI training.
+* **Contract** – To provide the App after you create an account.
+* **Legitimate Interest** – To maintain security and improve the App.
 
-- Legal Requirements: If required to do so by law or in response to valid requests by public authorities.
-  
-- Business Transfers: In the event of a merger, acquisition, or sale of assets.
-  
-- With Your Consent: When we have your explicit consent to do so.
-  
-- Aggregated or Anonymized Data: We may share aggregated or de-identified information that cannot reasonably be used to identify you.
+---
 
-**Data Retention**
-We retain your personal data for as long as your account is active or as needed to provide you with the App’s services. We may retain certain information for a longer period if required by law or for legitimate business purposes.
+## Subscriptions & Payments
 
-**Your Choices and Rights**
-- Microphone Access: You can control the App’s access to your device’s microphone at any time through your device's privacy settings.
-  
-- Accessing and Deleting Your Data: You can access and delete your stored dream recordings and scripts directly within the App’s settings.
-  
-- Account Deletion: You can fully delete your account directly within the App's settings. This will also permanently delete your associated data.
+* The App offers a **7‑day free trial**, then **\$7.99 per month** or **\$79.99 per year**. Subscriptions **auto‑renew** unless cancelled at least 24 hours before the end of the period.
+* All payments are processed by the App Stores. We do **not** handle or store credit‑card data.
+* We use **RevenueCat** to manage subscription status with a non‑identifiable user ID.
 
-**Children’s Privacy**
-The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13.
+---
 
-**Security**
-We implement reasonable technical and administrative security measures to protect your information. However, no method of transmission or storage is 100% secure.
+## How We Share Your Information
 
-**Changes to This Privacy Policy**
-We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new Privacy Policy within the App and updating the "Effective Date" at the top.
+We **do not sell** your personal data or track you across third‑party apps. We share information only:
 
-**Contact Us**
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-Email: support@dreamtoon.app
+* **With Service Providers** – Supabase (cloud storage), Firebase (analytics), and RevenueCat (subscription management), all under strict confidentiality.
+* **For Legal Compliance** – When required by law, subpoena, or to protect our rights and safety.
+* **In Business Transfers** – If we merge, acquire, or sell assets.
+* **With Your Consent** – When you explicitly authorize sharing.
+* **As Aggregated or Anonymized Data** – Data that cannot identify you.
 
+---
+
+## International Data Transfers
+
+DreamToon is headquartered in the United States. If you access the App from Canada or another jurisdiction, your data may be transferred to and processed in the U.S., where privacy laws may differ. We use appropriate safeguards, such as contractual protections, to secure cross‑border transfers.
+
+---
+
+## Data Retention
+
+* Audio recordings are stored for **up to 30 days** unless you choose to keep them longer.
+* Dream scripts, subscription data, and account info are retained while your account is active and for as long as legally required thereafter.
+
+---
+
+## Your Privacy Rights
+
+Depending on your location, you may have the right to:
+
+* Access, correct, or delete personal data.
+* Port your data to another service.
+* Object to or restrict certain processing.
+* Withdraw consent at any time.
+
+You can exercise these rights in **Settings** or by emailing **[support@dreamtoon.app](mailto:support@dreamtoon.app)**.
+
+---
+
+## Children’s Privacy
+
+DreamToon is **not intended for children under 13**. We do not knowingly collect data from children under 13; if we learn we have, we will delete it promptly.
+
+---
+
+## Security
+
+We use industry‑standard safeguards—including encryption at rest and in transit, secure APIs, and role‑based access controls—to protect your data. No method of transmission or storage is completely secure, but we continuously improve our protections.
+
+---
+
+## AI Disclaimer
+
+All dream interpretations and comics are for **entertainment purposes only** and should not be considered medical or psychological advice.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy periodically. Material changes will be announced in‑app and by updating the **Effective Date**.
+
+---
+
+## Contact Us
+
+Questions or concerns? Email **[support@dreamtoon.app](mailto:support@dreamtoon.app)**.
